@@ -1,10 +1,28 @@
-#btn {
-	height: 100px;
-	width: 200px;
-	background-color: red;
+body {
+	font-family: 'Raleway', sans-serif;
 }
 
-.cell{
+#btn {
+	margin-left: 45%;
+	height: 20px;
+	width: 10%;
+	background-color: #3D9970;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#propTable {
+	width: 50%;
+	margin-left: 25%
+}
+
+#row div {
+	color: #3D9970;
+	text-align: center;
+	width: 25%;
+	height: 30px;
 	display: inline-block;
-	overflow: none;
 }
